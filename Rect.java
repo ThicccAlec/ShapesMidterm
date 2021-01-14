@@ -22,11 +22,11 @@ public class Rect
      */
     public Rect()
     {
-        xSize = 60;
-        ySize = 60;
+        xSize = 400;
+        ySize = 300;
         xPosition = 310;
         yPosition = 120;
-        color = Canvas.getColor("red");
+        color = Canvas.getColor("cyan");
         isVisible = false;
     }
 

@@ -24,11 +24,11 @@ public class Arc
     public Arc()
     {
         diameter = 68;
-        xPosition = 130;
-        yPosition = 75;
+        xPosition = 400;
+        yPosition = 325;
         startAngle = 30;
         extent = 120;
-        color = Canvas.getColor("magenta");
+        color = Canvas.getColor("white");
     }
     
     /**

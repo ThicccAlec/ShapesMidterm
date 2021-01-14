@@ -12,7 +12,14 @@ public class TestPic
         // Draw my picture
         Rect r = new Rect();
         r.makeVisible();
-
+        Circle c = new Circle();
+        c.makeVisible();
+        Arc a = new Arc();
+        a.makeVisible();
+        Triangle t = new Triangle();
+        t.makeVisible();
+        Circle2 c2 = new Circle2();
+        c.makeVisible();
         // Save the picture to a file
         String filename = "testpic.png";
         try {

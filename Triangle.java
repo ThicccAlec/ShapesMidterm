@@ -24,9 +24,9 @@ public class Triangle
     {
         height = 60;
         width = 70;
-        xPosition = 210;
-        yPosition = 140;
-        color = Canvas.getColor("green");
+        xPosition = 600;
+        yPosition = 300;
+        color = Canvas.getColor("white");
         isVisible = false;
     }
     
